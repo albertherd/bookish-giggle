@@ -37,7 +37,7 @@ void loop() {
   arduboy.setCursor(4, 10);
 
   // then we print to screen what is in the Quotation marks ""
-  arduboy.print(F("Byee, world!"));
+  arduboy.print(F("Byeee, world!"));
 
   // then we finaly we tell the arduboy to display what we just wrote to the display
   arduboy.display();
