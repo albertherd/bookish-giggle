@@ -34,10 +34,10 @@ void loop() {
   
   // we set our cursor 5 pixels to the right and 10 down from the top
   // (positions start at 0, 0)
-  arduboy.setCursor(4, 19);
+  arduboy.setCursor(4, 10);
 
   // then we print to screen what is in the Quotation marks ""
-  arduboy.print(F("Bye, world!"));
+  arduboy.print(F("Byee, world!"));
 
   // then we finaly we tell the arduboy to display what we just wrote to the display
   arduboy.display();
